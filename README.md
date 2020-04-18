@@ -4,7 +4,7 @@ The project implements the ideas from the influential model proposed in the [pap
 
 # Libraries
 
-⋅⋅* pandas.
-⋅⋅* numpy.
-⋅⋅* scipy. 
-⋅⋅* datetime.
+* pandas
+* numpy
+* scipy
+* datetime
